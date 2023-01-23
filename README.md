@@ -1,4 +1,4 @@
-# Pixel-games Landing Page
+# Pixel-games | Landing Page
 
 ## test
 
