@@ -1,10 +1,16 @@
+import Banner from "./components/Banner"
+import Footer from "./components/Footer"
+import Game from "./components/Game"
 import Header from "./components/Header"
 
 function App() {
 
   return (
-    <div className="h-screen overflow-y-scroll scrollbar-thin scrollbar-track-slate-100 scrollbar-thumb-gray-400">
+    <div className="bg-slate-100 h-screen">
       <Header />
+      <Banner/>
+      <Game/>
+      <Footer/>
     </div>
   )
 }
