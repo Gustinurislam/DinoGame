@@ -1,4 +1,4 @@
-# Pixel-games | Landing Page
+# Dino-game | Landing Page
 
 ## test
 
